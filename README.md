@@ -1,6 +1,6 @@
 This bot is a very simple and ugly bot that takes screenshots to determine the state of the table and moves the mouse based on some logic.
 
-The bot has an internal system to see if the level has changed but I haven't also saved data about how the level tag should look like. So start your bot from a level that has level 1 and no monsters hidden.
+The bot has an internal system to see if the level has changed but I haven't also saved data about how the level tag should look like. So start it from a game that has level 1 and no monsters hidden.
 
 This bot might be missing some "pattern recognition" at times and will create new files with the text for the pattern and the image so you can see the image and tell it what it is in code (the giant hard-coded bit).
 
